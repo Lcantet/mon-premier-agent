@@ -1,0 +1,7 @@
+# Dépendances Python pour l'agent conversationnel Gemini
+
+# Google Generative AI SDK pour Gemini
+google-generativeai>=0.3.0
+
+# Gestion des variables d'environnement
+python-dotenv>=1.0.0
